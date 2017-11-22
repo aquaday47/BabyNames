@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+PROJECT TITLE: Simple file access
 ------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PURPOSE OF PROJECT: learn how to use conditional operators 
+VERSION or DATE: 05/15/2017
+AUTHORS: Aaron Austin Quaday
+USER INSTRUCTIONS: requires CSVParser part of ApacheCommons lib// and edu.duke.*
+found at: http://www.dukelearntoprogram.com/downloads/bluej.php?course=2
